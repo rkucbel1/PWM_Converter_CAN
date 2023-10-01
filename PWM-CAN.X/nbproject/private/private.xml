@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/config/default/FreeRTOSConfig.h</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/third_party/rtos/FreeRTOS/Source/include/FreeRTOS.h</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/third_party/rtos/FreeRTOS/Source/FreeRTOS_tasks.c</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/GNSStasks.h</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/main_pic32mk.c</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/config/default/peripheral/canfd/plib_canfd1.c</file>
+            <file>file:/C:/Users/rkucb/HarmonyProjects/firmware/src/GNSStasks.c</file>
+        </group>
+    </open-files>
+</project-private>
